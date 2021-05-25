@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @mattpassos
-- 👀  I’m a very curious person and looking to collaborate and learn!
+- 👀  I’m a very curious person and looking to collaborate
 - 🌱  I’m currently learning Web Development @TechLabs Berlin
 - 💻  Html, CSS, JavaScript, React, Bootstrap, Firebase ...
 - 📫  You can reach me on mbpassos@gmail.com
