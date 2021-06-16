@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @mattpassos
 - 👀  I’m a very curious person and looking to collaborate
 - 🌱  I’m currently learning Web Development @TechLabs Berlin
-- 💻  Html, CSS, JavaScript, React, Bootstrap, Firebase ...
+- 💻  Html, CSS, JavaScript, React, Ionic, Bootstrap, Firebase ...
 - 📫  You can reach me on mbpassos@gmail.com
 
 <!---
